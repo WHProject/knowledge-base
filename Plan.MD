@@ -1,5 +1,5 @@
 # Java基础
-## Bigdecimal
+## BigDecimal
 ## 数组
 ## 枚举
 ## 代码块
